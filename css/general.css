@@ -1,0 +1,15 @@
+input {
+    background-color: rgb(230, 226, 226);
+    font-size: 25px;
+    border: none;
+ 
+}
+
+input:focus {
+    outline: none;
+}
+
+.app_name {
+    text-align: center;
+    font-size: 64px;
+}

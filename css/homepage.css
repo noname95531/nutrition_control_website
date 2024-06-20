@@ -1,0 +1,105 @@
+.food_name_input_container {
+    display: flex;
+    background-color: rgb(230, 226, 226);
+    font-size: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 20px;
+    width: 1510px;
+}
+
+.food_name_input {
+    background-color: rgb(230, 226, 226);
+    font-size: 30px;
+    border: none;
+    flex: 1;
+ 
+}
+
+.detail_of_food {
+    background-color: rgb(230, 226, 226);
+    font-size: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 20px;
+}
+
+.food_input_display {
+    display: flex;
+}
+
+.food_entity_header {
+    display: flex;
+}
+
+.food_entity {
+    display: flex;
+}
+
+.food_name_container {
+    display: flex;
+    width: 978px;
+}
+
+.food_name {
+    border: none;
+    background-color: rgb(230, 226, 226);
+    font-size: 28px;
+    flex: 1;
+}
+
+.food_weight_container {
+    display: flex;
+    flex: 2;
+}
+
+.food_weight {
+    border: none;
+    background-color: rgb(230, 226, 226);
+    font-size: 28px;
+    flex: 1;
+}
+
+.nutrition_info {
+    background-color: rgb(230, 226, 226);
+    font-size: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 20px;
+}
+
+.nutrition_info_header {
+    display: flex;
+}
+
+.nutrition_info_header .header_name {
+    width: 1056px;
+}
+
+.nutrition_info_header .header_calories {
+    flex: 1;
+}
+
+.nutrition_total {
+    display: flex;
+    border-top: 2px solid black;
+}
+
+.carbohydrates_info,
+.protein_info,
+.fat_info {
+    display: flex;
+}
+
+.carbohydrates_info .name,
+.protein_info .name,
+.fat_info .name,
+.nutrition_total .name {
+    width: 1056px;
+}
+
+.carbohydrates_calories,
+.protein_calories,
+.fat_calories {
+
+}

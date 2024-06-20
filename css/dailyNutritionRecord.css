@@ -1,0 +1,26 @@
+.daily_target_bar {
+    display: flex;
+    background-color: rgb(230, 226, 226);
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 20px;
+}
+
+.today_target,
+.today_eat,
+.remain_or_overeat {
+    flex: 1;
+    font-size: 30px;
+    
+}
+
+.carbohydrates_consume,
+.protein_consume,
+.fat_consume {
+    background-color: rgb(230, 226, 226);
+    font-size: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 20px;
+
+}
